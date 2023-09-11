@@ -1,0 +1,49 @@
+
+  .train{
+    position: absolute;
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    top: 1%;
+    left: 30%;
+  }
+  .date{
+    position: absolute;
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    top: 1%;
+    left: 60%;
+  }
+  .time{
+    position: absolute;
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    top: 1%;
+    left: 80%;
+  }
+  .cl{
+    position: absolute;
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    top: 80%;
+    left: %;
+  }
+  .seat{
+    position: absolute;
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    top: 30%;
+    left: 80%;
+  }
+  .chk{
+    position: absolute;
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    top: 30%;
+    left: 30%;
+  }

@@ -1,0 +1,48 @@
+img{
+	height: 200px;
+	
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	height: 100%;
+	width: 100%;
+}
+.profile-pic-div{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 20%;
+	left: 10%;
+	transform: translate(-50%,-50%);
+	border-radius:50% ;
+	overflow: hidden;
+	border: 1px solid grey;
+}
+#photo{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+#file{
+	display: none;
+}
+#upload-button{
+	height: 40px;
+	width: 20px;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+	background: rgba(0, 0, 0, 0.7);
+	color: white;
+	line-height: 30Px;
+	font-family: sans-serif;
+	font-size: 15px;
+	cursor: pointer;
+}
+

@@ -1,0 +1,66 @@
+
+    
+    .div{
+      height: 40px;
+  width: 40px;
+  position: absolute;
+  top: 5%;
+  left: 95%;
+      transform: translate(-50%,-50%);
+  border-radius:50% ;
+  overflow: hidden;
+  border: 1px solid grey;
+
+
+    }
+    #photo{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+
+}
+.title
+{
+ 
+ position: absolute;
+ top: 3%;
+ left: 30%; 
+}
+.div1{
+    position: absolute;
+ top: %;
+ left: 63%; 
+ background-color: lightgrey;
+ width: 300px;
+ height: 292px;
+ 
+}
+.btn1{
+    background-color: #00D400;
+    border: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+.btn2{
+    background-color: blue;
+    border: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+.main{
+    background-color: lightgrey;
+  height:50%;
+  width:67%;
+  position: absolute;
+  top: 70%;
+  left: 20%;
+}
+
+.fake{
+    position: absolute;
+    top: 110%;
+    left: ;
+    background-color: white;
+}
