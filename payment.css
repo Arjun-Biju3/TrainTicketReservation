@@ -1,0 +1,48 @@
+
+         .cd{
+position: absolute;
+top: 72%;
+left: 40%;
+         }
+         .exp{
+position: absolute;
+top: 80%;
+left: 40%;
+         }
+         .cs{
+position: absolute;
+top: 88%;
+left: 40%;
+         }
+         .btn{
+            background-color: #00D400;
+            border: none;
+            border-radius: 5px;
+            width: 600px;
+            height: 30px;
+         }
+         .btn1{
+             background-color: blue;
+            border: none;
+            border-radius: 5px;
+            width: 600px;
+            height: 30px;
+         }
+         .logo{
+            position: absolute;
+            top: 75%;
+           left: 28%;
+           width: 50px;
+           height: 50px;
+         }
+         .in1{
+            width: 200px;
+         }
+         .in2{
+            width: 165px;
+         }
+         .in3{
+            width: 140px;
+         }
+
+     

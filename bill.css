@@ -1,0 +1,35 @@
+
+     .btn{
+          background-color:red;
+          position: absolute;
+          left: 70%;
+          top: 75%;
+     }
+     .btne{
+          background-color:blue;
+          position: absolute;
+          left: 50%;
+          top: 74%;
+          width:150px;
+          height: 40px;
+          border-radius: 5px;
+          border: none;
+     }
+     .inp{
+        border: none;
+
+     }
+     .div{
+        height: 40px;
+        width: 150px;
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        background-color: blue;
+        border-radius: 5px;
+     }
+     .a{
+        position: absolute;
+        top: 20%;
+        left: 40%;
+     }
