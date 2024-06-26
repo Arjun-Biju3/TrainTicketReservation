@@ -4,6 +4,12 @@
 <head>
   
 <title>TRAIN TICKET RESERVTION</title>
+<style>
+  body
+  {
+    margin: 0;
+  }
+</style>
 </head>
 
 <body >
